@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @bobmorg-gm
-- 👀 I’m interested in Web Development
+- 👀 I’m interested in Application Development
 - 🌱 I’m currently learning .NET 8
 
 <!---
